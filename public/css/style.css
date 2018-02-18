@@ -1,0 +1,40 @@
+.sticky-top {
+    width: auto;
+    height: 180px;
+}
+.navbar-brand {
+    font-family: cursive;
+    font-weight: 700;
+    color: deeppink;
+}
+
+
+h1, h2 {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: deeppink;
+    font-family: cursive;
+    font-size: 35px;  
+}
+
+
+
+.order-box {
+    line-height: 50px;
+    text-align: center;
+    width: 350 px;
+    height: 350 px;
+    display: block;
+    background-color: aquamarine;
+}
+
+
+.order-box input {
+    width: 200 px;
+    height: 35px;
+}
+.order-box select{
+    width: 200 px;
+    height: 35px;
+}
